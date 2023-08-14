@@ -22,7 +22,6 @@
         }
         return fruitNamesByColor[color];
     }
-
     // Simplificar esta función
     let isFirstStepWorking  = true;
     let isSecondStepWorking = true;

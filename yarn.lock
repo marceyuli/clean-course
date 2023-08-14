@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-esbuild-windows-64@0.14.25:
+esbuild-linux-64@0.14.25:
   version "0.14.25"
-  resolved "https://registry.npmjs.org/esbuild-windows-64/-/esbuild-windows-64-0.14.25.tgz"
-  integrity sha512-TirEohRkfWU9hXLgoDxzhMQD1g8I2mOqvdQF2RS9E/wbkORTAqJHyh7wqGRCQAwNzdNXdg3JAyhQ9/177AadWA==
+  resolved "https://registry.npmjs.org/esbuild-linux-64/-/esbuild-linux-64-0.14.25.tgz"
+  integrity sha512-+aKHdHZmX9qwVlQmu5xYXh7GsBFf4TWrePgeJTalhXHOG7NNuUwoHmketGiZEoNsWyyqwH9rE5BC+iwcLY30Ug==
 
 esbuild@^0.14.14:
   version "0.14.25"
