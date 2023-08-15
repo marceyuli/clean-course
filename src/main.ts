@@ -1,5 +1,5 @@
 import './style.css'
-import './clean-code/06-clases-c'
+import './clean-code/07-tarea'
 
 const app = document.querySelector<HTMLDivElement>('#app')!
 
